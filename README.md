@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! I'm Ilia Sedelkin 👋
+
+**I'm a Data Analyst**
+
+I have a BA in Business management that I followed uo with many years of practice building a successful business of my own. Throughout my work I developed a practical understanding that automated collection and deriving insights from data is the key to growing any product. Currentrly working on a project for streamlining marketing analytics and creating a web-based booking system.
+
+
+
+
 
 <!--
 **iliasedelkin/iliasedelkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
