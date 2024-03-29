@@ -1,4 +1,4 @@
-### Hello! I'm Ilia Sedelkin 👋
+### Hello, my name is Ilia Sedelkin 👋
 
 **I'm a Data Analyst**
 
