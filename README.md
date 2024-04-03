@@ -5,10 +5,11 @@
 I have a BA in Business management that I followed up with numerous years of building a successful business of my own. Throughout my work I developed a passion for analytics and an understanding that automated collection and deriving insights from data is the key to making sound decisions to grow any product. Currentrly working on two projects: streamlining end-to-end analytics for the marketing depatrment and building a web-based booking system.
 
 ---
-### Skills :hammer_and_wrench:
+### Skills & Technologies :hammer_and_wrench:
 
-- **ML skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`, `Command-line`
-- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `Optuna`
+- **Analytics**: `Python`, `SQL`, `Pandas`, `Numpy`, `Scipy`, `PostreSQL`, `Airflow`, `PyTorch`, `Google AppsScript`, `Jupyter Notebook`
+- **Visualisation**: `Tableau`, `PowerBI`, `LookerStudio`, `Redash`, `Matplotlib`, `Seaborn`, `Plotly`
+- **Programming**: `Swift`, `C#`, `AWS Cloud`, `FastAPI`, `Command line`
 ---
 
 
