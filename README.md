@@ -1,6 +1,6 @@
 # Hello, I'm Ilia Sedelkin <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img src="https://giphy.com/gifs/data-spicy-FSzLVme5Y3n3LMOiqP" width="240" height="240">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRua3d3bWoybGNxYXB4YmN4enQxeHIycmo2OXhhNWJ2bXo4NWl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSzLVme5Y3n3LMOiqP/giphy.gif" width="240" height="240">
 
 <div align="left">
 <iframe src="https://giphy.com/embed/FSzLVme5Y3n3LMOiqP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/data-spicy-FSzLVme5Y3n3LMOiqP">via GIPHY</a></p>
