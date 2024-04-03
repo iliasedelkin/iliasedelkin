@@ -7,7 +7,7 @@ I have a BA in Business management that I followed up with numerous years of bui
 ---
 ### Skills & Technologies :hammer_and_wrench:
 
-- **Analytics**: `Python`, `SQL`, `Pandas`, `Numpy`, `Scipy`, `PostreSQL`, `Airflow`, `PyTorch`, `Google AppsScript`, `Jupyter Notebook`
+- **Analytics**: `Python`, `SQL`, `Pandas`, `Numpy`, `Scipy`, `PostreSQL`, `ClickHouse`, `Airflow`, `Google AppsScript`, `Jupyter Notebook`
 - **Visualisation**: `Tableau`, `PowerBI`, `LookerStudio`, `Redash`, `Matplotlib`, `Seaborn`, `Plotly`
 - **Programming**: `Swift`, `C#`, `AWS Cloud`, `FastAPI`, `Command line`
 ---
