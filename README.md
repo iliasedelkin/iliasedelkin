@@ -7,7 +7,7 @@ I have a BA in Business management that I followed up with numerous years of bui
 
 - **Analytics**: `Python`, `SQL`, `Pandas`, `Numpy`, `Scipy`, `PostreSQL`, `ClickHouse`, `Airflow`, `Google AppsScript`, `Jupyter Notebook`
 - **Visualisation**: `Tableau`, `PowerBI`, `LookerStudio`, `Redash`, `Matplotlib`, `Seaborn`, `Plotly`
-- **Programming**: `Swift`, `ARKit`, `C#`, `AWS Cloud`, `FastAPI`, `Command line`, `Unity3D`
+- **Programming**: `Git`, `Swift`, `ARKit`, `C#`, `AWS Cloud`, `FastAPI`, `Command line`, `Unity3D`
 ---
 
 
