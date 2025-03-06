@@ -1,8 +1,6 @@
 # Hello, I'm Ilia Sedelkin <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRua3d3bWoybGNxYXB4YmN4enQxeHIycmo2OXhhNWJ2bXo4NWl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FSzLVme5Y3n3LMOiqP/giphy.gif" width="120" height="120">
-
-### Data Analyst
+### Developer & Data Analyst
 
 I have a BA in Business management that I followed up with numerous years of building a successful business of my own. Throughout my work I developed a passion for analytics and an understanding that automated collection and deriving insights from data is the key to making sound decisions to grow any product. Currentrly working on two projects: streamlining end-to-end analytics for the marketing depatrment and building a web-based booking system.
 
